@@ -1,0 +1,5 @@
+../Core/Src/HMC5883L.c:12:6:HMC5883L_Write	1
+../Core/Src/HMC5883L.c:20:6:HMC5883L_Read	1
+../Core/Src/HMC5883L.c:29:6:HMC5883L_Init	2
+../Core/Src/HMC5883L.c:46:6:HMC5883L_Read_Mag	1
+../Core/Src/HMC5883L.c:66:6:HMC5883L_Read_Mag_RAW	1

@@ -1,0 +1,6 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/UART.c:3:6:USART1Config	1
+../Core/Src/UART.c:36:6:USART1_SendChar	3
+../Core/Src/UART.c:43:9:USART1_GetChar	2
+../Core/Src/UART.c:49:6:USART1_SendFloat	2

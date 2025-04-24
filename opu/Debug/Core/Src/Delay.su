@@ -1,0 +1,6 @@
+../Core/Src/Delay.c:20:6:TIM5Config	4	static
+../Core/Src/Delay.c:34:6:Delay_us	16	static
+../Core/Src/Delay.c:39:6:Delay_ms	24	static
+../Core/Src/Delay.c:44:6:TIM5Enable	4	static
+../Core/Src/Delay.c:47:6:TIM5Disable	4	static
+../Core/Src/Delay.c:51:6:TIM5InterruptEnable	4	static

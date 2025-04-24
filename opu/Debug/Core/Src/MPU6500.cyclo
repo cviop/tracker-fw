@@ -1,0 +1,11 @@
+../Core/Src/MPU6500.c:37:6:MPU_Write	1
+../Core/Src/MPU6500.c:45:6:MPU_Read	1
+../Core/Src/MPU6500.c:54:6:MPU6050_Init	2
+../Core/Src/MPU6500.c:105:6:MPU6050_Read_Accel	1
+../Core/Src/MPU6500.c:128:6:MPU6050_Read_Accel_RAW	1
+../Core/Src/MPU6500.c:133:6:MPU6050_Read_Gyro	1
+../Core/Src/MPU6500.c:155:6:MPU6050_Read_Gyro_RAW	1
+../Core/Src/MPU6500.c:161:6:MPU6050_Read_Temperature	1
+../Core/Src/MPU6500.c:181:6:MPU6050_Read_Temperature_RAW	1
+../Core/Src/MPU6500.c:187:20:MPU6050_Read_AllRaw	1
+../Core/Src/MPU6500.c:197:6:MPU6050_Read_All	1
